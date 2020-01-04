@@ -8,7 +8,7 @@
 export default {
   name: 'home',
   methods: {
-    logout () {
+    logout() {
       window.sessionStorage.clear()
       this.$router.push('/login')
     }

@@ -44,7 +44,7 @@ export default {
     }
   },
   methods: {
-    login () {
+    login() {
       this.$refs.loginFormRef.validate(async valid => {
         if (valid) {
           const { data: res } = await this.$http.post('login', this.loginForm)
@@ -59,7 +59,7 @@ export default {
         }
       })
     },
-    resetLoginForm () {
+    resetLoginForm() {
       console.log(this)
       this.$refs.loginFormRef.resetFields()
     }
