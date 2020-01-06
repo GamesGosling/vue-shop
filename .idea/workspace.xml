@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="" />
+    <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="D:\JetBrains\IntelliJ IDEA 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,6 +92,7 @@
       <workItem from="1578141858670" duration="11033000" />
       <workItem from="1578187087590" duration="20498000" />
       <workItem from="1578211906777" duration="4305000" />
+      <workItem from="1578274650135" duration="14687000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1578151576970</created>
