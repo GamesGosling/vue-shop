@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/example/Example.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/example/Switch/Switch.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/example/Switch/Switch.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/example/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/lib/vue-table-with-tree-grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Checkbox/Checkbox.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Checkbox/Checkbox.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/Table.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/Table.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/TableBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/TableFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/TableHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/font/iconfont.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/utils/mixins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/Table/utils/scrollBarWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vue-table-with-tree-grid/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/goods/cate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods/params.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/182dbeecb7771cfea60e62a564eb159f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/182dbeecb7771cfea60e62a564eb159f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54c77c3608176c438aeb62cdc93ef57b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/54c77c3608176c438aeb62cdc93ef57b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0693a694c938eb6f806465560f06f4f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0693a694c938eb6f806465560f06f4f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e63eea7e6b3c53226182dd181a4f384c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e63eea7e6b3c53226182dd181a4f384c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/15efd2a95fd0135e6c0e21683a007ac1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/15efd2a95fd0135e6c0e21683a007ac1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1deddedf816ba364f9985c597bd9e1fd.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1deddedf816ba364f9985c597bd9e1fd.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/35bafc1d8870448578547e2a147f8aec.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/35bafc1d8870448578547e2a147f8aec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3e88215cee08de3ab1d1fec86445a883.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/3e88215cee08de3ab1d1fec86445a883.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/491c0678f4dae0b1fc42623d702715e8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/491c0678f4dae0b1fc42623d702715e8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/56f25b7370d460b7c0b8d72ce2e086c7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/56f25b7370d460b7c0b8d72ce2e086c7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/66a3de34aa62b280c0bae312542c6e60.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/66a3de34aa62b280c0bae312542c6e60.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6e3fa2ae6bd73c46c3eae5befe7d217a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6e3fa2ae6bd73c46c3eae5befe7d217a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/71f1dbe675e2d1965a41f689f84d0921.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/71f1dbe675e2d1965a41f689f84d0921.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7b1fc73c3383abd870f9fc9bb7207bd9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7b1fc73c3383abd870f9fc9bb7207bd9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b0f5f2505b811940027c76b6ce4b295b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b0f5f2505b811940027c76b6ce4b295b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d04a2f5302fdb44c2a6a42b850167319.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d04a2f5302fdb44c2a6a42b850167319.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e13b33f404b1d5d828908b0f7a698fab.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e13b33f404b1d5d828908b0f7a698fab.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/edb69d27a0f8f40e525c9a5710596e03.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/edb69d27a0f8f40e525c9a5710596e03.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/goods/cate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods/cate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -138,6 +101,7 @@
       <workItem from="1578211906777" duration="4305000" />
       <workItem from="1578274650135" duration="32282000" />
       <workItem from="1578359319615" duration="3863000" />
+      <workItem from="1578448815752" duration="22333000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1578151576970</created>
