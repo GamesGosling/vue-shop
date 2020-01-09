@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/goods/params.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/goods/cate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods/cate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/goods/params.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods/params.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +99,7 @@
       <workItem from="1578274650135" duration="32282000" />
       <workItem from="1578359319615" duration="3863000" />
       <workItem from="1578448815752" duration="22333000" />
+      <workItem from="1578549172594" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1578151576970</created>

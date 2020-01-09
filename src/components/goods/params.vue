@@ -42,7 +42,7 @@
               <el-table-column label="操作">
                 <template slot-scope="scope">
                   <el-button type="primary" icon="el-icon-edit" size="mini" @click="showEditDialog(scope.row.attr_id)">编辑</el-button>
-                  <el-button type="danger" icon="el-icon-delete" size="mini">删除</el-button>
+                  <el-button type="danger" icon="el-icon-delete" size="mini" @click="removeParams(scope.row.attr_id)">删除</el-button>
                 </template>
               </el-table-column>
             </el-table>
@@ -57,7 +57,7 @@
               <el-table-column label="操作">
                 <template slot-scope="scope">
                   <el-button type="primary" icon="el-icon-edit" size="mini" @click="showEditDialog(scope.row.attr_id)">编辑</el-button>
-                  <el-button type="danger" icon="el-icon-delete" size="mini">删除</el-button>
+                  <el-button type="danger" icon="el-icon-delete" size="mini" @click="removeParams(scope.row.attr_id)">删除</el-button>
                 </template>
               </el-table-column>
             </el-table>
@@ -178,6 +178,9 @@ export default {
       // 根据所选分类的id,和当前所处的面板，获取对应的参数
       const { data: res } = await this.$http.get(`/categories/${this.cateId}/attributes`, { params: { sel: this.activeName } })
       if (res.meta.status !== 200) return this.$message.error('获取参数列表失败')
+      res.data.forEach(item => {
+        item.attr_vals = item.attr_vals.split(' ')
+      })
       if (this.activeName === 'many') {
         this.manyTableData = res.data
       } else {
@@ -227,6 +230,25 @@ export default {
           this.editDialogVisible = false
         }
       })
+    },
+    // 删除参数按钮事件
+    async removeParams(attrId) {
+      const confirmRes = await this.$confirm(
+        '此操作将永久删除该参数, 是否继续?',
+        '提示',
+        {
+          confirmButtonText: '确定',
+          cancelButtonText: '取消',
+          type: 'warning'
+        }
+      ).catch(err => err)
+      if (confirmRes !== 'confirm') {
+        return this.$message.info('已取消删除')
+      }
+      const { data: res } = await this.$http.delete(`categories/${this.cateId}/attributes/${attrId}`)
+      if (res.meta.status !== 200) return this.$message.error('删除参数失败！')
+      this.$message.success('删除参数成功！')
+      this.getParamsData()
     }
 
   },
