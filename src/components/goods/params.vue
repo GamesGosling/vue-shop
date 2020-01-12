@@ -217,7 +217,7 @@ export default {
         const { data: res } = await this.$http.get(`/categories/${this.cateId}/attributes`, { params: { sel: this.activeName } })
         if (res.meta.status !== 200) return this.$message.error('获取参数列表失败')
         res.data.forEach(item => {
-          item.attr_vals = item.attr_vals ? item.attr_vals.split(' ') : []
+          item.attr_vals = item.attr_vals.length !== 0 ? item.attr_vals.split(' ') : []
           // 控制文本框的显示与隐藏
           item.inputVisible = false
           item.inputValue = ''

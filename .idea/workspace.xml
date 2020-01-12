@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/dist/ssr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/dist/vue-quill-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/src/editor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/src/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vue-quill-editor/src/ssr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods/list.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0491b1d63ae72f500e9f7b4a950a568e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0491b1d63ae72f500e9f7b4a950a568e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aeb1cebd1ebf0ff52003524b0ec065b7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/aeb1cebd1ebf0ff52003524b0ec065b7.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c84a0ad5b041febcacc99c822e2f2991.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c84a0ad5b041febcacc99c822e2f2991.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cd9478da4404bc79b1e2a3f58ac1c864.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cd9478da4404bc79b1e2a3f58ac1c864.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e9eb4bec26484023c781a44b1a480e2f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e9eb4bec26484023c781a44b1a480e2f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2f1a91eab63c969d7ee07b55a41fb97b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2f1a91eab63c969d7ee07b55a41fb97b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/35b9dcb039dccc319079bad3059e5352.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/35b9dcb039dccc319079bad3059e5352.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/45c260a14cc64127beaceb21af4a0891.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/45c260a14cc64127beaceb21af4a0891.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6c7608b38d9f215700a93dd17a32fde8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6c7608b38d9f215700a93dd17a32fde8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/730d15860b77207abb55c8e6c905c29c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/730d15860b77207abb55c8e6c905c29c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a65aa22c376f932a79afcf6729aae759.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a65aa22c376f932a79afcf6729aae759.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a9a36a93bbaacfe652ab4ee4d2c00d40.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a9a36a93bbaacfe652ab4ee4d2c00d40.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c68df65f14e974029bfd5fd1c4d279fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c68df65f14e974029bfd5fd1c4d279fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d2ad6dc0dc78e6832a0300619e7c3339.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d2ad6dc0dc78e6832a0300619e7c3339.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/goods/params.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods/params.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +130,8 @@
       <workItem from="1578448815752" duration="22333000" />
       <workItem from="1578549172594" duration="2676000" />
       <workItem from="1578709778823" duration="5788000" />
+      <workItem from="1578721783528" duration="14911000" />
+      <workItem from="1578830187514" duration="10566000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1578151576970</created>
