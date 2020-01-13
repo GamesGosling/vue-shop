@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="506afd39-d464-4602-8d70-3a3ab14d380d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/order/citydata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/order/order.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline-item/timeline-item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline/src/item(1).vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline/src/main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/timeline/timeline.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/26e23dabfefe4fe0ade733971c3fc30e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0693a694c938eb6f806465560f06f4f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b0693a694c938eb6f806465560f06f4f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c6d3a44f25431fa44c14dde7dd65a7f8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c6d3a44f25431fa44c14dde7dd65a7f8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/goods/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods/list.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/timeline/src/item(1).vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/timeline/src/item.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,6 +107,7 @@
       <workItem from="1578721783528" duration="14911000" />
       <workItem from="1578830187514" duration="10566000" />
       <workItem from="1578900563937" duration="7432000" />
+      <workItem from="1578909052977" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1578151576970</created>
