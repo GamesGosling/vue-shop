@@ -18,4 +18,4 @@ yarn-error.log*
 *.sln
 *.sw?
 .idea
-.idea
+node_modules
